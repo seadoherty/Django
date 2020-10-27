@@ -11,7 +11,7 @@ As the script runs it provides a running update in the console, in a nutshell:
 * Starts the server
 
 To run: 
-1.  Start your venv ([how to here](https://docs.python.org/3/library/venv.html))<br/>
+1.  In your project's folder start your venv ([how to here](https://docs.python.org/3/library/venv.html)) 
 (make sure these script files are executable, if not, here's [how](https://www.andrewcbancroft.com/blog/musings/make-bash-script-executable/))<br/>
 1.  Type `source 0_variables.sh {{project name}}`
 1.  Replace **{{project name}}** with whatever you want ~ `source 0_variables.sh awesomesauce`<br/>
