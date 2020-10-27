@@ -14,4 +14,4 @@ To run:
 1.  Start your venv ([how to here](https://docs.python.org/3/library/venv.html))<br/>
 (make sure these script files are executable, if not, here's [how](https://www.andrewcbancroft.com/blog/musings/make-bash-script-executable/))<br/>
 1.  Type `source 0_variables.sh {{project name}}`
-1.  Replace **{{project name}}** with whatever you want the project to be named ~ `source 0_variables.sh awesomesauce`<br/>
+1.  Replace **{{project name}}** with whatever you want ~ `source 0_variables.sh awesomesauce`<br/>
