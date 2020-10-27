@@ -14,4 +14,4 @@ echo "${green}>>> Created $CORE/urls.py.${reset}"
 
 # Go up a folder to run the next script
 cd ..
-./5_editAppViews.sh
+./7_editAppViews.sh

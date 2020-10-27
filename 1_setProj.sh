@@ -16,4 +16,4 @@ echo "${green}>>> Created the project: '$PROJECT'${reset}"
 
 # Go up a folder to run the next script
 cd ..
-./0_2_setApp.sh
+./2_setApp.sh

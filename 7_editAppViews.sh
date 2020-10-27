@@ -13,4 +13,4 @@ echo "${green}>>> Updated $CORE/views.py.${reset}"
 
 # Go up a folder to run the next script
 cd ..
-./9_startServer.sh
+./8_startServer.sh

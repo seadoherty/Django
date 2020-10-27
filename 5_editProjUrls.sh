@@ -8,4 +8,4 @@ echo "${green}>>> Edited $PROJECT/urls.py"
 
 # Go up a folder to run the next script
 cd ..
-./4_editAppUrls.sh
+./6_editAppUrls.sh

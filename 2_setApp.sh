@@ -14,4 +14,4 @@ echo "${green}>>> Created static directory.${reset}"
 
 # Go up a folder to run the next script
 cd ..
-./1_createIndex.sh
+./3_createIndex.sh

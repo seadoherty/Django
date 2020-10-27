@@ -17,4 +17,4 @@ echo "${green}>>> Edited settings.py"
 
 # Go up a folder to run the next script
 cd ..
-./3_editProjUrls.sh
+./5_editProjUrls.sh

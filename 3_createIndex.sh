@@ -35,4 +35,4 @@ echo "${green}>>> Created index.html.${reset}"
 
 # Go up a folder to run the next script
 cd ..
-./2_editProjSettings.sh
+./4_editProjSettings.sh
